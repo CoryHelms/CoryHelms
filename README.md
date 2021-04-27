@@ -6,4 +6,4 @@ As for my programming experience, I have over 2 years experience with Python and
 
 With regard to my Cybersecurity experience, my background is primarily blue team focused. Almost all of my security coursework was focused on defense and intrusion detection. I became very familiar with a command line interface, both Linux and Windows based, and have a basic understanding of PowerShell. Additionally, I am familiar with networking tools like Wireshark and Snort, and have experience with packet filtering while using iptables. I am comfortable configuring access controls for users from both the command line and Active Directory. I also have experience configuring servers and databases while utilizing the LAMP stack.
 
-Working in cybersecurity is my ultimate goal, and I think my previous work experience and passion for cybersecurity make me a great candidate for your organization. Have a great day!
+Working in Cybersecurity is my ultimate goal, and I think my previous work experience and passion for cybersecurity make me a great candidate for your organization. Have a great day!
